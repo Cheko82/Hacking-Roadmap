@@ -3,8 +3,8 @@ My hacking roadmap so that i can track it and keep progressing.
 
 
 ### 📝 ToDo:
-- [ ] Proxy
-- [ ] Proton Mail
+- [x] Proxy
+- [x] Proton Mail
 - [ ] OSINT
 - [ ] Veil
 - [ ] Sniffer
