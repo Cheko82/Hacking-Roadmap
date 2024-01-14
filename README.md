@@ -5,8 +5,9 @@ My hacking roadmap so that i can track it and keep progressing.
 ### 📝 ToDo:
 - [x] Proxy
 - [x] Proton Mail
-- [ ] OSINT
+- [x] OSINTgram
 - [ ] Veil
+- [ ] Javascript
 - [ ] Sniffer
 - [ ] Rust Malware
 - [ ] Keylogger USB
